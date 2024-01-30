@@ -1,0 +1,3 @@
+split -b 30M linux-modules-extra-6.2.16-mvp30v3+7-generic_6.2.16-mvp30v3+7.tdx_amd64.deb deb-part-
+
+cat deb-part-* > linux-modules-extra-6.2.16-mvp30v3+7-generic_6.2.16-mvp30v3+7.tdx_amd64.deb
